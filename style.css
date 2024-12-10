@@ -1,0 +1,201 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* header */
+header{
+    max-width: 1140px;
+    padding: 12px 80px;
+    margin: 0 auto;
+}
+
+nav{
+    max-width: 1060px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#logo{
+    width: 173px;
+    height: 48px;
+    vertical-align: middle;
+}
+
+ #navLinksContainer{
+    display: inline-block;
+    width: 690px;
+    text-align: center;
+    margin: 0 auto;
+} 
+
+#navLinks{
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 390px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#navLinks a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: #323232;
+}
+
+#contact{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: auto;
+    
+}
+
+#contactButton{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    padding: 8px 16px;
+    background-color: #00AC25;
+    border-radius: 8px;
+}
+
+/* main */
+
+#container{
+    max-width: 1316px;
+    width: 100%;
+    margin: 233px auto 535px;
+}
+
+#containerTitle{
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+}
+
+#titleSpan{
+    color: #FF5DA3;
+    font-size: 72px;
+    font-weight: 700;
+    display: block;
+}
+
+#containerP{
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 24px 0;
+}
+
+#enjoy{
+    text-align: center;
+    margin: 24px 0;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#enjoyP{
+    text-align: center;
+    color: #6941C6;
+    max-width: 716px;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px; 
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+#buttonDiv{
+    text-align: center;
+}
+
+#button{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 8px;
+    background: #00AC25;
+    padding: 16px 24px;
+}
+
+/* footerr */
+
+footer{
+    background-color: #53389E;
+    width: auto;
+}
+
+#footerLinkscontainer{
+    width: 888px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+#footerNavitems{
+    padding: 40px 32px;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#footerLogo{
+    vertical-align: middle;
+    max-width: 160px;
+    width: 100%;
+    height: 32px;
+}
+
+#logoText{
+    vertical-align: middle;
+}
+
+#copyright{
+    display: inline-block;
+    color: #E9D7FE;
+    width: 160px;
+}
+
+#footerLinks{
+    display: inline-block;
+}
+
+#itemOne{
+    padding-right: 32px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#itemTwo{
+    padding-right: 32px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#itemThree{
+    padding-right: 32px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#itemFour{
+    padding-right: 32px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#itemFive{
+    padding-right: 32px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#itemSix{
+    padding-right: 32px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
