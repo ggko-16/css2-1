@@ -32,16 +32,44 @@ nav{
 #navLinks{
     display: inline-block;
     vertical-align: middle;
-    max-width: 390px;
+    max-width: 349px;
     width: 100%;
     text-align: center;
     margin: 0 auto;
+    font-size: 18px;
+    color: #323232;
 }
 
-#navLinks a{
-    padding: 0 20px;
+
+#what{
+    padding-right:20px;
     text-decoration: none;
     color: #323232;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#contactText{
+    padding-right: 20px;
+    text-decoration: none;
+    color: #323232;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#help{
+    text-decoration: none;
+    color: #323232;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#about{
+    padding-right: 20px;
+    color: #FF5DA3;
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
 }
 
 #contact{
